@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/daehyeon1999/Connect_to_MongoDB/issues"
   },
-  "homepage": "https://github.com/daehyeon1999/Connect_to_MongoDB#readme"
+  "homepage": "https://github.com/daehyeon1999/Connect_to_MongoDB#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.13.0"
+  }
 }
