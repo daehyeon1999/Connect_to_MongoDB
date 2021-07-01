@@ -1,0 +1,20 @@
+{
+  "name": "Connect_to_MongoDB",
+  "version": "1.0.0",
+  "description": "practice connecting to MongoDB\r using nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daehyeon1999/Connect_to_MongoDB.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daehyeon1999/Connect_to_MongoDB/issues"
+  },
+  "homepage": "https://github.com/daehyeon1999/Connect_to_MongoDB#readme"
+}
